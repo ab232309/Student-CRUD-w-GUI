@@ -28,6 +28,5 @@ You can run the program using the following commands:
 ```shell
 python gui.py
 
-**For the CLI**
-```shell
-python cli.py
+
+
